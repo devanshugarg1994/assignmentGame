@@ -1,0 +1,127 @@
+{
+    "mainScene": {
+        "mainSceneContainer": {
+            "x": 0,
+            "y": 0,
+            "id": "mainSceneContainer",
+            "type": "container"
+        },
+        "button1": {
+            "x": 300,
+            "y": 200,
+            "w": 200,
+            "h": 80,
+            "type": "shapeButton",
+            "id": "button1",
+            "shape": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 80,
+                "pivotX": 100,
+                "pivotY": 40,
+                "id": "button1Shape",
+                "type": "shape",
+                "interactive": true,
+                "buttonMode": true,
+                "fillColor": "#FF0000",
+                "alpha": 0.7
+            },
+            "label": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 80,
+                "id": "button1Label",
+                "text": "144 Sprite",
+                "style": {
+                    "fontFamily": "Arial",
+                    "fontSize": 75,
+                    "fill": "0xfada5e",
+                    "align": "center",
+                    "fontWeight": 1000
+                }
+            },
+            "parent": "mainSceneContainer"
+        },
+        "button2": {
+            "x": 300,
+            "y": 200,
+            "w": 200,
+            "h": 80,
+            "type": "shapeButton",
+            "id": "button2",
+
+            "shape": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 80,
+                "pivotX": 100,
+                "pivotY": 40,
+                "id": "button2Shape",
+                "type": "shape",
+                "interactive": true,
+                "buttonMode": true,
+                "fillColor": "#FF0000",
+                "alpha": 0.7
+            },
+            "label": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 80,
+                "id": "button2Label",
+                "text": "Mixed Text",
+                "style": {
+                    "fontFamily": "Arial",
+                    "fontSize": 75,
+                    "fill": "0xfada5e",
+                    "align": "center",
+                    "fontWeight": 1000
+                }
+            },
+            "parent": "mainSceneContainer"
+        },
+        "button3": {
+            "x": 300,
+            "y": 200,
+            "w": 200,
+            "h": 80,
+            "id": "button3",
+            "type": "shapeButton",
+            "shape": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 80,
+                "pivotX": 100,
+                "pivotY": 40,
+                "id": "button3Shape",
+                "type": "shape",
+                "interactive": true,
+                "buttonMode": true,
+                "fillColor": "#FF0000",
+                "alpha": 0.7
+            },
+            "label": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 80,
+                "id": "button3Label",
+                "text": "Particle",
+                "style": {
+                    "fontFamily": "Arial",
+                    "fontSize": 75,
+                    "fill": "0xfada5e",
+                    "align": "center",
+                    "fontWeight": 1000
+                }
+            },
+            "parent": "mainSceneContainer"
+        }
+
+
+    }
+}

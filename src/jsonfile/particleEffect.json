@@ -1,0 +1,11 @@
+{
+    "particleEffect": {
+        "particleEffectContainer": {
+            "x": 200,
+            "y": 200,
+            
+            "id": "particleEffectContainer",
+            "type": "container"
+        }
+    }
+}

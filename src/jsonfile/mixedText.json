@@ -1,0 +1,18 @@
+
+{
+    "mixedText": {
+        "txt": {
+            "x": 0,
+            "y": 0,
+            "id": "txt",
+            "text": "",
+            "type": "custom",
+            "style": {
+                "fontFamily": "Arial",
+                "fontSize": 20,
+                "fill": "0xfada5e",
+                "fontWeight": 20
+            }
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "performance": {
+        "performanceContainer": {
+            "x": 100,
+            "y": 100,
+            "id": "performanceContainer",
+            "type": "container"
+        },
+
+        "fpsText": {
+            "x": 0,
+            "y": 0,
+            "w": 400,
+            "h": 100,
+            "id": "fpsText",
+            "text": "0.00",
+            "type": "label",
+            "visible": true,
+            "style": {
+                "fontFamily": "Arial",
+                "fontSize": 30,
+                "fill": "0xFF0000",
+                "align": "center",
+                "fontWeight": 30
+            },
+            "parent": "performanceContainer"
+        },
+        "backBtn": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 40,
+            "id": "backBtn",
+            "type": "shapeButton",
+            "visible": false,
+            "shape": {
+                "x": 0,
+                "y": 0,
+                "w": 100,
+                "h": 40,
+                "pivotX": 50,
+                "pivotY": 20,
+                "id": "button3Shape",
+                "type": "shape",
+                "interactive": true,
+                "buttonMode": true,
+                "fillColor": "#FF0000",
+                "alpha": 0.7
+            },
+            "label": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 80,
+                "id": "button3Label",
+                "text": "Back Btn",
+                "style": {
+                    "fontFamily": "Arial",
+                    "fontSize": 20,
+                    "fill": "0x00000",
+                    "align": "center",
+                    "fontWeight": 20
+                }
+            },
+            "parent": "performanceContainer"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "preLoadresources": [
+        "../jsonfile/performance.json",
+        "../jsonfile/mainScene.json",
+        "../jsonfile/spriteOneFourFour.json",
+        "../jsonfile/mixedText.json",
+        "../jsonfile/particleEffect.json",
+        "../jsonfile/randomTxt.json",
+        "../jsonfile/emitter.json",
+
+        "../images/fireParticle.png"
+
+    ]
+}
